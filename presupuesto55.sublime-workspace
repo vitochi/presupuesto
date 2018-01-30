@@ -1,0 +1,453 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"assert",
+				"assertSame"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"post",
+				"$post〔variable〕"
+			],
+			[
+				"Test",
+				"TestCase〔class〕"
+			],
+			[
+				"Data",
+				"DatabaseTransactions"
+			],
+			[
+				"act",
+				"actingAs〔function〕"
+			],
+			[
+				"fo",
+				"foreach\tblade-foreach"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"H",
+				"Hash"
+			],
+			[
+				"requ",
+				"$request〔variable〕"
+			],
+			[
+				"curren",
+				"current_password"
+			],
+			[
+				"Ha",
+				"Hash::check\tCheck the given plain value against a hash."
+			],
+			[
+				"req",
+				"$request〔variable〕"
+			],
+			[
+				"use",
+				"$user〔variable〕"
+			],
+			[
+				"get",
+				"getConfirmation"
+			],
+			[
+				"Auth",
+				"Auth::user\tGet the currently authenticated user."
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"R",
+				"Route"
+			],
+			[
+				"bu",
+				"button\tTag"
+			],
+			[
+				"col-md-of",
+				"col-md-offset-4 \tBootstrap 3 Class"
+			],
+			[
+				"col",
+				"col-md-6 \tBootstrap 3 Class"
+			],
+			[
+				"form",
+				"form-group \tBootstrap 3 Class"
+			],
+			[
+				"tex",
+				"textarea\tTag"
+			],
+			[
+				"col-md",
+				"col-md-4"
+			],
+			[
+				"lab",
+				"label\tTag"
+			],
+			[
+				"AC",
+				"action\tAttr"
+			],
+			[
+				"panel",
+				"panel-body \tBootstrap 3 Class"
+			],
+			[
+				"pan",
+				"panel-heading \tBootstrap 3 Class"
+			],
+			[
+				"col-md-o",
+				"col-md-offset-2 \tBootstrap 3 Class"
+			],
+			[
+				"row",
+				"row \tBootstrap 3 Class"
+			],
+			[
+				"alert",
+				"alert-success \tBootstrap 3 Class"
+			],
+			[
+				"Sessi",
+				"Session::has\tDetermin if an Item Exists in the Session"
+			],
+			[
+				"rou",
+				"route〔function〕"
+			],
+			[
+				"registra",
+				"registration_token"
+			],
+			[
+				"M",
+				"Mail::send\tSend a new message using a view."
+			],
+			[
+				"route",
+				"route"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packge inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 974.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/victor/code/presupuesto55"
+	],
+	"file_history":
+	[
+		"/home/victor/code/presupuesto55/.gitignore",
+		"/home/victor/code/foro/vendor/fzaninotto/faker/src/Faker/Provider/Internet.php",
+		"/home/victor/code/foro/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/home/victor/code/foro/vendor/laravel/framework/src/Illuminate/Contracts/Routing/UrlRoutable.php",
+		"/home/victor/code/foro/app/User.php",
+		"/home/victor/code/foro/app/Post.php",
+		"/home/victor/code/foro/tests/unit/PostModelTest.php",
+		"/home/victor/code/foro/database/migrations/2017_06_24_195143_create_posts_table.php",
+		"/home/victor/code/foro/tests/integration/PostIntegrationTest.php",
+		"/home/victor/code/foro/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/victor/code/foro/database/seeds/DatabaseSeeder.php",
+		"/home/victor/code/foro/database/factories/ModelFactory.php",
+		"/home/victor/code/foro/tests/features/CreatePostsTest.php",
+		"/home/victor/code/Presupuesto/routes/web.php",
+		"/home/victor/code/Presupuesto/tests/Unit/ExampleTest.php",
+		"/home/victor/code/Presupuesto/config/database.php",
+		"/home/victor/code/Presupuesto/resources/views/welcome.blade.php",
+		"/home/victor/code/Presupuesto/config/app.php",
+		"/home/victor/code/Presupuesto/.env",
+		"/home/victor/code/Presupuesto/phpunit.xml",
+		"/home/victor/code/Presupuesto/app/Providers/AuthServiceProvider.php",
+		"/home/victor/code/Presupuesto/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/home/victor/code/Presupuesto/Procfile",
+		"/home/victor/Homestead/Homestead.yaml",
+		"/etc/hosts",
+		"/home/victor/code/foro/routes/public.php",
+		"/home/victor/code/foro/app/Providers/RouteServiceProvider.php",
+		"/home/victor/code/foro/resources/views/posts/show.blade.php",
+		"/home/victor/themes Wordpress/DinamoTattoo files/menu.php",
+		"/home/victor/code/foro/tests/FeatureTestCase.php",
+		"/home/victor/code/foro/app/Http/Controllers/CreatePostController.php",
+		"/home/victor/code/foro/resources/views/posts/create.blade.php",
+		"/home/victor/code/foro/resources/lang/es/validation.php",
+		"/home/victor/code/foro/vendor/styde/html/themes/bootstrap/fields/default.blade.php",
+		"/home/victor/code/foro/resources/lang/en/validation.php",
+		"/home/victor/code/foro/resources/lang/es/pagination.php",
+		"/home/victor/code/foro/resources/lang/es/passwords.php",
+		"/home/victor/code/foro/resources/lang/es/auth.php",
+		"/home/victor/code/foro/resources/views/errors/503.blade.php",
+		"/home/victor/code/foro/tests/TestCase.php",
+		"/home/victor/code/foro/routes/guest.php",
+		"/home/victor/code/foro/routes/auth.php",
+		"/home/victor/code/foro/routes/web.php",
+		"/home/victor/code/foro/resources/views/auth/register.blade.php",
+		"/home/victor/code/foro/composer.json",
+		"/home/victor/code/foro/tests/features/ExampleTest.php",
+		"/home/victor/code/foro/tests/integration/.gitkeep",
+		"/home/victor/code/foro/readme.md",
+		"/home/victor/code/foro/config/database.php",
+		"/home/victor/code/foro/.env.codeship",
+		"/home/victor/code/foro/phpunit.xml",
+		"/home/victor/code/foro/tests/ExampleTest.php",
+		"/home/victor/code/foro/.gitignore",
+		"/home/victor/code/foro/routes/api.php",
+		"/home/victor/code/foro/app/Providers/AuthServiceProvider.php",
+		"/home/victor/code/foro/config/app.php",
+		"/home/victor/code/foro/resources/views/welcome.blade.php",
+		"/home/victor/code/foro/app/Http/Kernel.php",
+		"/home/victor/code/foro/.env",
+		"/home/victor/code/acl/database/seeds/UserTableSeeder.php",
+		"/home/victor/code/acl/app/Http/routes.php",
+		"/home/victor/code/acl/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/victor/code/acl/app/Post.php",
+		"/home/victor/code/acl/app/User.php",
+		"/home/victor/code/acl/app/Http/Controllers/PostController.php",
+		"/home/victor/code/acl/resources/views/posts/list.blade.php",
+		"/home/victor/code/acl/resources/views/layout.blade.php",
+		"/home/victor/code/acl/app/Http/Kernel.php",
+		"/home/victor/code/acl/config/app.php",
+		"/home/victor/code/acl/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php",
+		"/home/victor/code/acl/app/Providers/AuthServiceProvider.php",
+		"/home/victor/code/acl/app/Http/Controllers/Controller.php",
+		"/home/victor/code/acl/database/migrations/2017_05_27_172118_create_posts_table.php",
+		"/home/victor/code/acl/database/factories/ModelFactory.php",
+		"/home/victor/code/acl/.env",
+		"/home/victor/code/acl/database/seeds/PostTableSeeder.php",
+		"/home/victor/code/acl/database/seeds/DatabaseSeeder.php",
+		"/home/victor/code/duilio1/app/Http/Controllers/AccountController.php",
+		"/home/victor/code/duilio1/app/User.php",
+		"/home/victor/code/duilio1/app/Http/routes.php",
+		"/home/victor/code/duilio1/resources/views/account/password.blade.php",
+		"/home/victor/code/duilio1/resources/views/account.blade.php",
+		"/home/victor/code/duilio1/tests/ChangePasswordTest.php",
+		"/home/victor/code/duilio1/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php",
+		"/home/victor/heroku-projects/curso-introductorio-laravel/composer.json",
+		"/home/victor/heroku-projects/curso-introductorio-laravel/config/database.php",
+		"/home/victor/heroku-projects/curso-introductorio-laravel/config/app.php",
+		"/home/victor/heroku-projects/curso-introductorio-laravel/.env.example",
+		"/home/victor/heroku-projects/curso-introductorio-laravel/Procfile",
+		"/home/victor/heroku-projects/curso-introductorio-laravel/.gitignore",
+		"/home/victor/code/duilio1/resources/views/home.blade.php",
+		"/home/victor/code/duilio1/.gitignore",
+		"/home/victor/code/duilio1/app/Http/Controllers/Auth/AuthController.php",
+		"/home/victor/code/duilio1/resources/views/admin/posts.blade.php",
+		"/home/victor/code/duilio1/app/Http/Kernel.php",
+		"/home/victor/code/duilio1/resources/views/admin/settings.blade.php",
+		"/home/victor/code/duilio1/app/Http/Middleware/Role.php",
+		"/home/victor/code/duilio1/resources/views/auth/login.blade.php",
+		"/home/victor/code/duilio1/resources/views/publish.blade.php",
+		"/home/victor/code/duilio1/app/Http/Middleware/IsVerified.php",
+		"/home/victor/code/duilio1/resources/views/partials/success.blade.php",
+		"/home/victor/code/duilio1/resources/views/partials/layout/errors.blade.php",
+		"/home/victor/code/duilio1/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php",
+		"/home/victor/code/duilio1/app/Http/Middleware/Authenticate.php",
+		"/home/victor/code/duilio1/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/home/victor/code/duilio1/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php",
+		"/home/victor/code/duilio1/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/home/victor/code/duilio1/vendor/laravel/framework/src/Illuminate/Auth/Guard.php",
+		"/home/victor/code/duilio1/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php",
+		"/home/victor/code/duilio1/resources/lang/es/password.php",
+		"/home/victor/code/duilio1/database/factories/ModelFactory.php",
+		"/home/victor/code/duilio1/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/victor/code/duilio1/resources/views/emails/registration.blade.php",
+		"/home/victor/code/duilio1/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php",
+		"/home/victor/code/duilio1/database/seeds/UserTableSeeder.php",
+		"/home/victor/code/duilio1/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RedirectsUsers.php",
+		"/home/victor/code/duilio1/resources/views/auth/register.blade.php",
+		"/home/victor/code/duilio1/.env",
+		"/home/victor/code/duilio1/vendor/laravel/framework/src/Illuminate/Auth/Authenticatable.php",
+		"/home/victor/code/duilio1/storage/logs/laravel.log",
+		"/home/victor/code/duilio1/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+		"/home/victor/code/duilio1/resources/lang/es/auth.php",
+		"/home/victor/code/duilio1/config/mail.php",
+		"/home/victor/code/duilio1/resources/views/emails/password.blade.php",
+		"/home/victor/code/duilio1/resources/lang/en/passwords.php",
+		"/home/victor/code/duilio1/app/Http/Controllers/Auth/PasswordController.php",
+		"/home/victor/code/duilio1/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php",
+		"/home/victor/code/duilio1/resources/views/auth/password.blade.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "presupuesto55.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 421.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
