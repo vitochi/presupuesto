@@ -1,5 +1,7 @@
 <?php
 
+use Symfony\Component\HttpFoundation\Response;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -15,11 +17,12 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-
-
-Route::view('/admin2', 'admin.dashboard');
-Route::view('/admin', 'admin.admin');
-
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+Route::get('/admin', function(){
+
+	return view('admin.dashboard');
+	
+})->name('admin_dashboard')->middleware(['auth', 'admin']);
