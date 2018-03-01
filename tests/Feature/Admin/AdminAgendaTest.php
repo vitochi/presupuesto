@@ -15,9 +15,7 @@ class AdminAgendaTest extends TestCase
      /** @test */
      function admins_can_visit_the_admin_agenda()
      {
-     	$admin = factory(User::class)->create([
-     			'admin' => true
-     	]);
+          $admin = factory(User::class)->create(['admin' => true]);
 
      	$this->actingAs($admin)
      		 ->get(route('admin_agenda'))
