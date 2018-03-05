@@ -1,4 +1,7 @@
-/vendor
 /.phpintel
+/vendor
 .env
+.gitignore
 presupuesto55.sublime-project
+presupuesto55.sublime-workspace
+
